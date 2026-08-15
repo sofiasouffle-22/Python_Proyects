@@ -1,2 +1,2 @@
-# Python_Proyects
-A collection of my Python proyects and exercises as I learn software development. 
+# Python_Projects
+A collection of my Python projects and exercises as I learn software development. 
